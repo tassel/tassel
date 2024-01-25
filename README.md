@@ -9,6 +9,10 @@
     <li>I'm passionate about computers and everything you can do using computers.</li>
     <li>I'm into retro machines using NES, SNES, Playstation, C64 & Amiga .</li>
     <li>Focusing on learning new stuff all the time.</li>
+    <li>I love the <a href="https://en.wikipedia.org/wiki/Demoscene" target="_blank">demoscene</a> and everything about it. I am also part of a demoscene group called LaBaN, you can find out more about LaBan at the following url's:</li>
+    https://demozoo.org/groups/5285/<br>
+    https://www.pouet.net/user.php?who=5604<br>
+    https://amp.dascene.net/newresult.php?request=groupid&search=2566<br>    
   </ul>
 </div>
 
@@ -24,7 +28,6 @@
     <li>Python, Maxscript, Javascript, HTML & CSS ++ (Hobbyist)</li>
   </ul>
 </div>
-
 
 ## Favorite Tech
 <table bgcolor="lightblue"><td>
