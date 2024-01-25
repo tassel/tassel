@@ -60,7 +60,7 @@
 <br>
 
 <div id="badges">
-  <a href="[[link to your LinkedIn profile]](https://www.linkedin.com/in/raymondingebretsen/)">
+  <a href="https://www.linkedin.com/in/raymondingebretsen"/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
