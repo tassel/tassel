@@ -23,7 +23,6 @@
     <li>After Effects</li>
     <li>Black Magic Fusion</li>
     <li>Black Magic Resolve</li>
-    <li>Python, Maxscript, Javascript, HTML & CSS ++ (Hobbyist)</li>
   </ul>
 </div>
 
