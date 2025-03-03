@@ -55,9 +55,3 @@
 ![tassel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tassel&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 <br>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/raymondingebretsen"/>
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
