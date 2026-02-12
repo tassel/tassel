@@ -20,8 +20,6 @@
 </div>
 
 ## Favorite Tech
-
-  [![Gists](https://img.shields.io/badge/Gists-Tassel-blueviolet?style=for-the-badge)](https://gist.github.com/tassel)
   
 <table bgcolor="lightblue"><td>
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCoder" width="40" height="40"/>&nbsp;
@@ -55,3 +53,22 @@
 ![tassel's Stats](https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&theme=dark&show_icons=true&hide_border=true&count_private=true) ![tassel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tassel&theme=dark&hide_border=true)
 
 <br>
+
+```text
+_____._.______  .________.________._______.___        
+\__ _:|:      \ |    ___/|    ___/: .____/|   |       
+  |  :||   .   ||___    \|___    \| : _/\ |   |       
+  |   ||   :   ||       /|       /|   /  \|   |/\     
+  |   ||___|   ||__:___/ |__:___/ |_.: __/|   /  \    
+  |___|    |___|   :        :        :/   |______/    
+                                                      
+                                                      
+                                                      
+.___    .______  ._______ .______  .______            
+|   |   :      \ : __   / :      \ :      \           
+|   |   |   .   ||  |>  \ |   .   ||       |          
+|   |/\ |   :   ||  |>   \|   :   ||   |   |          
+|   /  \|___|   ||_______/|___|   ||___|   |          
+|______/    |___|             |___|    |___|          
+```
+  [![Gists](https://img.shields.io/badge/Gists-Tassel-blueviolet?style=for-the-badge)](https://gist.github.com/tassel)
