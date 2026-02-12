@@ -46,23 +46,23 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tassel&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=tassel&show_icons=true"
+    srcset="https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=tassel&show_icons=true" />
+  <img src="https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&show_icons=true" />
 </picture>
 
 <h2>Stats:</h2>
 
-![tassel's Stats](https://github-readme-stats.vercel.app/api?username=tassel&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![tassel's Stats](https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&theme=nord&show_icons=true&hide_border=true&count_private=true)
 ![tassel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tassel&theme=nord&hide_border=true)
 
 <h2>Top Languages:</h2>
 
-![tassel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tassel&theme=nord&show_icons=true&hide_border=true&layout=compact)
+![tassel's Top Languages](https://github-readme-stats-sage-six-96.vercel.app/api/top-langs/?username=tassel&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 <br>
