@@ -3,7 +3,7 @@
 </div>
 
 <div id="bio">
-  <h2>About Me</h2>
+  <h2>About Me</h2>  
   <ul>
     <li>I'm a Visual Artist and works for <a href="https://www.broomstick.no/" target="_blank">broomstick.no</a></li>
     <li>I'm passionate about computers and everything you can do using computers. I'm into retro machines using NES, SNES, Playstation, C64 & Amiga. I also like fiddling around with ARM computers. :)</li>
@@ -11,7 +11,6 @@
     <a href="https://www.pouet.net/user.php?who=5604" target="_blank">Pouet.net</a> <--> <a href="https://demozoo.org/groups/5285/" target="_blank">Demozoo.org</a> <--> <a href="https://amp.dascene.net/newresult.php?request=groupid&search=2566" target="_blank">Amp.dascene.net</a>
   </ul>
 </div>
-
 
 <div id="skills">
   <h2>Skills</h2>
@@ -21,6 +20,9 @@
 </div>
 
 ## Favorite Tech
+
+  [![Gists](https://img.shields.io/badge/Gists-Tassel-blueviolet?style=for-the-badge)](https://gist.github.com/tassel)
+  
 <table bgcolor="lightblue"><td>
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCoder" width="40" height="40"/>&nbsp;
   <img src="https://avatars.githubusercontent.com/u/1161584?s=200&v=4" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp;
