@@ -15,12 +15,7 @@
 <div id="skills">
   <h2>Skills</h2>
   <ul>
-    <li>Blender</li>
-    <li>3DS Max</li>
-    <li>Photoshop</li>
-    <li>After Effects</li>
-    <li>Black Magic Fusion</li>
-    <li>Black Magic Resolve</li>
+    <li>VSCode, Blender, 3DS Max, Photoshop, After Effects, Black Magic Fusion, Black Magic Resolve</li>
   </ul>
 </div>
 
@@ -44,25 +39,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
 </td></table>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&show_icons=true" />
-</picture>
+<h2>Top Languages:</h2>
+
+![tassel's Top Languages](https://github-readme-stats-sage-six-96.vercel.app/api/top-langs/?username=tassel&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 <h2>Stats:</h2>
 
-![tassel's Stats](https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&theme=nord&show_icons=true&hide_border=true&count_private=true)
-![tassel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tassel&theme=nord&hide_border=true)
-
-<h2>Top Languages:</h2>
-
-![tassel's Top Languages](https://github-readme-stats-sage-six-96.vercel.app/api/top-langs/?username=tassel&theme=nord&show_icons=true&hide_border=true&layout=compact)
+![tassel's Stats](https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![tassel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tassel&theme=dark&hide_border=true)
 
 <br>
