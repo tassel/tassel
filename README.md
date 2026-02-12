@@ -20,25 +20,7 @@
 </div>
 
 ## Favorite Tech
-  
-<table bgcolor="lightblue"><td>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCoder" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/1161584?s=200&v=4" title="Sublime" alt="Sublime" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/CSS-Next/logo.css/main/css.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQuery" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Py" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/52924476?s=200&v=4" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/4542585?s=280&v=4" title="Photoshop" alt="Ps" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Codepen" alt="Codepen" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
-</td></table>
+  <img width="1200" height="196" alt="githubicons" src="https://github.com/user-attachments/assets/2c247893-9678-42d4-8f32-e8700a88826e" />
 
 [![Readme Card](https://github-readme-stats-sage-six-96.vercel.app/api/pin/?username=tassel&theme=dark&repo=Index-of-Refraction-IOR-webpage)](https://github.com/tassel/Index-of-Refraction-IOR-webpage)
 [![Readme Card](https://github-readme-stats-sage-six-96.vercel.app/api/pin/?username=tassel&theme=dark&repo=CMD-Windows-NT-XP-Command-Line-List)](https://github.com/tassel/CMD-Windows-NT-XP-Command-Line-List)
