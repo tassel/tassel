@@ -45,7 +45,6 @@
 
 <h2>Stats:</h2>
 
-![tassel's Stats](https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![tassel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tassel&theme=dark&hide_border=true)
+![tassel's Stats](https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&theme=dark&show_icons=true&hide_border=true&count_private=true) ![tassel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tassel&theme=dark&hide_border=true)
 
 <br>
