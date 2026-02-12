@@ -44,6 +44,17 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
 </td></table>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tassel&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=tassel&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tassel&show_icons=true" />
+</picture>
 
 <h2>Stats:</h2>
 
