@@ -12,6 +12,7 @@
   </ul>
 </div>
 
+
 <div id="skills">
   <h2>Skills</h2>
   <ul>
@@ -39,11 +40,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="ThreeJS" alt="ThreeJS" width="40" height="40"/>&nbsp;
 </td></table>
 
-<h2>Top Languages:</h2>
+[![Readme Card](https://github-readme-stats-sage-six-96.vercel.app/api/pin/?username=tassel&theme=dark&repo=Index-of-Refraction-IOR-webpage)](https://github.com/tassel/Index-of-Refraction-IOR-webpage)
+[![Readme Card](https://github-readme-stats-sage-six-96.vercel.app/api/pin/?username=tassel&theme=dark&repo=CMD-Windows-NT-XP-Command-Line-List)](https://github.com/tassel/CMD-Windows-NT-XP-Command-Line-List)
 
-![tassel's Top Languages](https://github-readme-stats-sage-six-96.vercel.app/api/top-langs/?username=tassel&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[![Readme Card](https://github-readme-stats-sage-six-96.vercel.app/api/pin/?username=tassel&theme=dark&repo=BlenderAddons)](https://github.com/tassel/BlenderAddons)
+[![Readme Card](https://github-readme-stats-sage-six-96.vercel.app/api/pin/?username=tassel&theme=dark&repo=MXS)](https://github.com/tassel/MXS)
 
 <h2>Stats:</h2>
+
+![tassel's Top Languages](https://github-readme-stats-sage-six-96.vercel.app/api/top-langs/?username=tassel&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![tassel's Stats](https://github-readme-stats-sage-six-96.vercel.app/api?username=tassel&theme=dark&show_icons=true&hide_border=true&count_private=true) ![tassel's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tassel&theme=dark&hide_border=true)
 
